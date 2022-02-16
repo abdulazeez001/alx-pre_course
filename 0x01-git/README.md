@@ -1,3 +1,3 @@
 # ALX PRE-COURSE !!!
 
-## First respository for alx school
+## First respository for alx git course
